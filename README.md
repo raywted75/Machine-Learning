@@ -17,4 +17,4 @@ python3.5 <br>
 ## To-do list
 - [ ] Improves coding style
 - [ ] Adds reports
-- [ ] Write hands-on tutorial
+- [ ] Writes hands-on tutorial
