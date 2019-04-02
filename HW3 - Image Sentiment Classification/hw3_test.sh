@@ -1,0 +1,15 @@
+wget -O 'model-00049-0.71733.h5' 'https://www.dropbox.com/s/z9kaw6jbd2o4d9n/model-00049-0.71733.h5?dl=1'
+wget -O 'model-00057-0.71833.h5' 'https://www.dropbox.com/s/lejfevfl7icr3cr/model-00057-0.71833.h5?dl=1'
+wget -O 'model-00086-0.71867.h5' 'https://www.dropbox.com/s/x5kppd32lk6fizs/model-00086-0.71867.h5?dl=1'
+wget -O 'model-00087-0.72033.h5' 'https://www.dropbox.com/s/2vozthb9g1b0uh4/model-00087-0.72033.h5?dl=1'
+wget -O 'model-00149-0.71533.h5' 'https://www.dropbox.com/s/bwombilvtjiyu69/model-00149-0.71533.h5?dl=1'
+wget -O 'model-00161-0.71700.h5' 'https://www.dropbox.com/s/ejd45n9ykol5jih/model-00161-0.71700.h5?dl=1'
+wget -O 'model-00164-0.72400.h5' 'https://www.dropbox.com/s/lv906sq9n3l7rvu/model-00164-0.72400.h5?dl=1'
+wget -O 'model-00188-0.71533.h5' 'https://www.dropbox.com/s/f1nco1bvlecpdxb/model-00188-0.71533.h5?dl=1'
+wget -O 'model-00198-0.71700.h5' 'https://www.dropbox.com/s/dfkldzhkf7qfzyw/model-00198-0.71700.h5?dl=1'
+wget -O 'model-w1.h5' 'https://www.dropbox.com/s/cj8qrl6bmrhf9ll/model-wind1.h5?dl=1'
+wget -O 'model-w2.h5' 'https://www.dropbox.com/s/3a9ln6rexckbqy8/model-wind2.h5?dl=1'
+wget -O 'model-y1.h5' 'https://www.dropbox.com/s/kh9ey36xct7hahy/model-yist1.h5?dl=1'
+wget -O 'model-y2.h5' 'https://www.dropbox.com/s/skoa1m2q49azic4/model-yist2.h5?dl=1'
+
+python3 cnn_test.py $1 $2
