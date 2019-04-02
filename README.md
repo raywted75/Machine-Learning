@@ -1,6 +1,7 @@
-# Machine Learning (Fall, 2018)
+# Machine Learning
 School: **National Taiwan University** <br>
 Course: **Machine Learning** <br>
+Semester: Fall, 2018 <br>
 Instructors: **Prof. Pei-Yuan Wu**, **Prof. Hung-Yi Lee** <br>
 
 ## Homework
