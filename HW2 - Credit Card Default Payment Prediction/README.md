@@ -1,7 +1,9 @@
 # Credit Card Default Payment Prediction
-[Assignment Slides](https://drive.google.com/open?id=1vFNiRoXd4_fD6WpflQhiafHbCoB9ZY83)<br>
-[Kaggle Link](https://www.kaggle.com/c/ml2018fall-hw2/leaderboard)<br>
-[Data Link](https://drive.google.com/open?id=1aqz7e-97srh06UR4DTdCVHdUQ8IX0HU_)<br>
+* Implement **generative model** and **logistic regression** to predict the default payment status of credit cards. <br>
+* Ranking: 61/109 <br>
+* [Kaggle Link](https://www.kaggle.com/c/ml2018fall-hw2/leaderboard) <br>
+* [Assignment Slides](https://drive.google.com/open?id=1vFNiRoXd4_fD6WpflQhiafHbCoB9ZY83) <br>
+* [Data Link](https://drive.google.com/open?id=1aqz7e-97srh06UR4DTdCVHdUQ8IX0HU_) <br>
 
 ## Probabilistic Generative Model
 Usage
